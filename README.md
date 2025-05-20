@@ -68,4 +68,4 @@ G40,high,yes,excellent,yes
 
 ### RESULT: 
 Thus, generation of association rules using apriori algorithm is executed succesfully.
-B
+
